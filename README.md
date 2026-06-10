@@ -1,8 +1,6 @@
 # Imperivm Launcher
 
-> Screenshot example (English version). The launcher is also available in Spanish and Italian.
-
-![Imperivm Launcher](ImperivmLauncher_v1.3.0.png)
+A free utility developed by **AlexiusItaly** to improve compatibility, stability, and usability of **Imperivm: Great Battles of Rome** on modern Windows systems.
 
 ## Languages
 
@@ -13,6 +11,8 @@
 ---
 
 # English
+
+![Imperivm Launcher - English](images/ImperivmLauncher_v1.3.0_EN.png)
 
 ## About
 
@@ -59,6 +59,8 @@ Feedback, bug reports, testing, and suggestions are always appreciated.
 
 # Español
 
+![Imperivm Launcher - Español](images/ImperivmLauncher_v1.3.0_ES.png)
+
 ## Acerca del Proyecto
 
 Imperivm Launcher es una utilidad gratuita desarrollada por **AlexiusItaly** para mejorar la experiencia de **Imperivm: Great Battles of Rome** en sistemas Windows modernos.
@@ -103,6 +105,8 @@ Las sugerencias, pruebas e informes de errores son siempre bienvenidos.
 ---
 
 # Italiano
+
+![Imperivm Launcher - Italiano](images/ImperivmLauncher_v1.3.0_IT.png)
 
 ## Informazioni sul Progetto
 
