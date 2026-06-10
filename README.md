@@ -1,4 +1,4 @@
-# Imperivm Launcher
+# <img src="images/Icon.png" width="64"> Imperivm Launcher
 
 A free utility developed by **AlexiusItaly** to improve compatibility, stability, and usability of **Imperivm: Great Battles of Rome** on modern Windows systems.
 
