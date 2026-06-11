@@ -6,8 +6,8 @@
   
   <b>IT:</b> Un'utilità gratuita sviluppata da <b>AlexiusItaly</b> per migliorare la compatibilità, la stabilità e la fruibilità di <b>Imperivm: Le Grandi Battaglie di Roma</b> sui sistemi Windows moderni.
 
-<a href="https://github.com/AlexiusItaly/ImperivmLauncher/releases/latest/download/ImperivmLauncher.exe">
-  <img src="https://img.shields.io/github/downloads/AlexiusItaly/ImperivmLauncher/total?label=Download&color=blue&style=for-the-badge&logo=github">
+<a href="https://github.com/AlexiusItaly/ImperivmLauncher/releases/latest">
+  <img src="https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github">
 </a>
 
 ## Languages
