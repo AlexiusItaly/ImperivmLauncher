@@ -1,6 +1,14 @@
 # <img src="images/Icon.png" width="64"> Imperivm Launcher
 
-A free utility developed by **AlexiusItaly** to improve compatibility, stability, and usability of **Imperivm: Great Battles of Rome** on modern Windows systems.
+  <b>EN:</b> A free utility developed by <b>AlexiusItaly</b> to improve compatibility, stability, and usability of <b>Imperivm: Great Battles of Rome</b> on modern Windows systems.<br>
+  
+  <b>ES:</b> Una utilidad gratuita desarrollada por <b>AlexiusItaly</b> para mejorar la compatibilidad, estabilidad y facilidad de uso de <b>Imperivm: Great Battles of Rome</b> en sistemas Windows modernos.<br>
+  
+  <b>IT:</b> Un'utilità gratuita sviluppata da <b>AlexiusItaly</b> per migliorare la compatibilità, la stabilità e la fruibilità di <b>Imperivm: Le Grandi Battaglie di Roma</b> sui sistemi Windows moderni.
+
+<a href="https://github.com/AlexiusItaly/ImperivmLauncher/releases/latest/download/ImperivmLauncher.exe">
+  <img src="https://img.shields.io/github/downloads/AlexiusItaly/ImperivmLauncher/total?label=Download&color=blue&style=for-the-badge&logo=github">
+</a>
 
 ## Languages
 
