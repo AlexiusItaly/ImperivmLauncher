@@ -8,11 +8,11 @@ Hannibal's Campaigns|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/rel
 Il figlio di Ankou|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Il.figlio.di.Ankou.BFHP
 Il popolo di Asclepio|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Il.popolo.di.Asclepio.BFHP
 Invaders|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Invaders.bfhp
-Keltill's Adventure|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Keltill.s.Adventure.BFHP
+Keltill's Adventure|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Keltill.s.Adventure.BFHP
 L'Egitto maledetto|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/L.Egitto.maledetto.BFHP
 L'unificazione dell'Egitto|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/L.unificazione.dell.Egitto.BFHP
 L'unificazione dell'Italia|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/L.unificazione.dell.Italia.BFHP
-L'Unificazione della Britannia|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/L.Unificazione.della.Britannia.GREEK.BFHP
+L'Unificazione della Britannia|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/L.Unificazione.della.Britannia.GREEK.BFHP
 L'unificazione della Gallia|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/L.unificazione.della.Gallia.BFHP
 L'unificazione della Germania|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/L.unificazione.della.Germania.BFHP
 La discesa di Brenno|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/La.discesa.di.Brenno.BFHP
@@ -21,14 +21,14 @@ La battaglia di Avarico|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/
 La Primera Guerra Punica|1.0|ES|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/La_Primera_Guerra_Punica.bfhp
 La Ultima Carga Teutonica HD|1.0|ES|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/La_Ultima_Carga_Teutonica_HD.BFHP
 L'eroe d'Egitto parte 1|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/L_eroe.d_Egitto.parte.1.BFHP
-Numantia|1.0|ES|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Numantia.bfhp
-Osca|1.0|ES|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Osca.BFHP
+Numantia|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Numantia.bfhp
+Osca|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Osca.BFHP
 Return to the Throne|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Return.to.the.Throne.bfhp
 Ribellione di Spartaco (73 a.C.)|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Ribellione.di.Spartaco.73.a.C.BFHP
 Siege of Saguntum|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Siege.of.Saguntum.bfhp
 The Punic Wars|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/The.Punic.Wars.bfhp
-The Throne of Greece|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/The.Throne.of.Greece.bfhp
+The Throne of Greece|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/The.Throne.of.Greece.bfhp
 Tra le nuvole|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Tralenuvole.BFHP
-Tutorial|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Tutorial.BFHP
+Tutorial|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Tutorial.BFHP
 Tutorial CelticKings|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Tutorial.CelticKings.bfhp
 Tutorial PunicWars|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Tutorial.PunicWars.bfhp
