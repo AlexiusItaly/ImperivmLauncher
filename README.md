@@ -26,14 +26,14 @@
 
 Imperivm Launcher is a free utility developed by **AlexiusItaly** to improve the experience of **Imperivm: Great Battles of Rome** on modern Windows systems.
 
-The launcher was created for the Imperivm community to simplify common fixes, automate technical configurations, improve compatibility, and provide useful diagnostic tools for players.
+The launcher was created for the Imperivm community to simplify common fixes, automate technical configurations, improve compatibility, and provide useful diagnostic tools for players. 
 
 This project is an unofficial community tool and does not claim ownership of Imperivm or any related intellectual property.
 
 ## Main Features
 
+* **Custom Adventures Manager (v2.0.1+):** A built-in cloud catalog to easily browse, download, update, and manage custom community single-player campaigns and maps with a single click.
 * One-click game optimization that automatically applies:
-
   * The **4GB Large Address Aware (LAA) Patch** when required.
   * The **DirectMusic / Audio Fix** files required by some modern Windows systems.
 * Real-time monitoring of Imperivm's memory consumption.
@@ -42,7 +42,6 @@ This project is an unofficial community tool and does not claim ownership of Imp
 * Automatic warnings when the game approaches critical memory usage levels.
 * Automatic crash diagnosis based on generated log files.
 * Detection of common issues such as:
-
   * Memory-related crashes.
   * Audio-related crashes.
   * Multiplayer desynchronization.
@@ -52,10 +51,10 @@ This project is an unofficial community tool and does not claim ownership of Imp
 * Automatic temporary DPI compatibility handling for modern displays.
 * Integrated user manual.
 * Multilingual interface:
-
   * English
   * Spanish
   * Italian
+  * Czech
 
 ## Project Goal
 
@@ -79,8 +78,8 @@ Este proyecto es una herramienta no oficial creada para la comunidad y no reclam
 
 ## Funciones Principales
 
+* **Gestor de Aventuras Personalizadas (v2.0.1+):** Un catálogo integrado en la nube para explorar, descargar, actualizar y gestionar fácilmente campañas y mapas personalizados creados por la comunidad con un solo clic.
 * Optimización del juego con un solo clic que aplica automáticamente:
-
   * El parche **4GB Large Address Aware (LAA)** cuando es necesario.
   * Los archivos del **Audio Fix / DirectMusic** requeridos por algunos sistemas modernos.
 * Monitorización en tiempo real del consumo de memoria de Imperivm.
@@ -89,7 +88,6 @@ Este proyecto es una herramienta no oficial creada para la comunidad y no reclam
 * Avisos automáticos cuando el juego se acerca a niveles críticos de uso de memoria.
 * Diagnóstico automático de errores mediante el análisis de registros.
 * Detección de problemas comunes:
-
   * Errores por límite de memoria.
   * Problemas de audio.
   * Desincronizaciones multijugador.
@@ -99,10 +97,10 @@ Este proyecto es una herramienta no oficial creada para la comunidad y no reclam
 * Compatibilidad DPI automática para pantallas modernas.
 * Manual integrado.
 * Interfaz multilingüe:
-
   * Español
   * Inglés
   * Italiano
+  * Checo
 
 ## Objetivo
 
@@ -126,8 +124,8 @@ Questo progetto è uno strumento non ufficiale realizzato per la community e non
 
 ## Funzionalità Principali
 
+* **Gestore Avventure Personalizzate (v2.0.1+):** Un catalogo cloud integrato per esplorare, scaricare, aggiornare e gestire facilmente con un solo clic le campagne e le mappe personalizzate create dalla community.
 * Ottimizzazione del gioco con un solo clic che applica automaticamente:
-
   * La **Patch 4GB Large Address Aware (LAA)** quando necessaria.
   * Il **Fix Audio / DirectMusic** richiesto da alcuni sistemi Windows moderni.
 * Monitoraggio in tempo reale del consumo di memoria di Imperivm.
@@ -136,7 +134,6 @@ Questo progetto è uno strumento non ufficiale realizzato per la community e non
 * Avvisi automatici quando il gioco si avvicina a livelli critici di utilizzo della memoria.
 * Diagnostica automatica dei crash tramite analisi dei log.
 * Rilevamento di problemi comuni come:
-
   * Crash dovuti al limite di memoria.
   * Problemi audio.
   * Desincronizzazioni multiplayer.
@@ -146,10 +143,10 @@ Questo progetto è uno strumento non ufficiale realizzato per la community e non
 * Gestione automatica e temporanea della compatibilità DPI per monitor moderni.
 * Manuale integrato.
 * Interfaccia multilingua:
-
   * Italiano
   * Inglese
   * Spagnolo
+  * Ceco
 
 ## Obiettivo
 
