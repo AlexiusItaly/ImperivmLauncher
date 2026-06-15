@@ -1,10 +1,10 @@
 # <img src="images/Icon.png" width="64"> Imperivm Launcher
 
-  <b>EN:</b> A free utility developed by <b>AlexiusItaly</b> to improve compatibility, stability, and usability of <b>Imperivm: Great Battles of Rome</b> on modern Windows systems.<br>
+  **EN:** A free utility developed by **AlexiusItaly** to improve compatibility, stability, and usability of **Imperivm: Great Battles of Rome** on modern Windows systems.<br>
   
-  <b>ES:</b> Una utilidad gratuita desarrollada por <b>AlexiusItaly</b> para mejorar la compatibilidad, estabilidad y facilidad de uso de <b>Imperivm: Great Battles of Rome</b> en sistemas Windows modernos.<br>
+  **ES:** Una utilidad gratuita desarrollada por **AlexiusItaly** para mejorar la compatibilidad, estabilidad y facilidad de uso de **Imperivm: Great Battles of Rome** en sistemas Windows modernos.<br>
   
-  <b>IT:</b> Un'utilità gratuita sviluppata da <b>AlexiusItaly</b> per migliorare la compatibilità, la stabilità e la fruibilità di <b>Imperivm: Le Grandi Battaglie di Roma</b> sui sistemi Windows moderni.
+  **IT:** Un'utilità gratuita sviluppata da **AlexiusItaly** per migliorare la compatibilità, la stabilità e la fruibilità di **Imperivm: Le Grandi Battaglie di Roma** sui sistemi Windows moderni.
 
 <a href="https://github.com/AlexiusItaly/ImperivmLauncher/releases/latest">
   <img src="https://img.shields.io/github/v/release/AlexiusItaly/ImperivmLauncher?label=Download&style=for-the-badge&logo=github&color=blue">
@@ -20,7 +20,7 @@
 
 # English
 
-![Imperivm Launcher - English](images/ImperivmLauncher_v1.3.0_EN.png)
+![Imperivm Launcher - English](images/ImperivmLauncher_v3.2.0_EN.png)
 
 ## About
 
@@ -32,7 +32,8 @@ This project is an unofficial community tool and does not claim ownership of Imp
 
 ## Main Features
 
-* **Custom Adventures Manager (v2.0.1+):** A built-in cloud catalog to easily browse, download, update, and manage custom community single-player campaigns and maps with a single click.
+* **Custom Adventures Manager:** A built-in cloud catalog to easily browse, download, update, and manage custom community single-player campaigns and maps with a single click.
+* **Automated Multiplayer Hub:** One-click Radmin VPN silent installation, dynamic network priority optimization for zero lag, and smart Windows Firewall unlocking to easily find and join friends' matches.
 * One-click game optimization that automatically applies:
   * The **4GB Large Address Aware (LAA) Patch** when required.
   * The **DirectMusic / Audio Fix** files required by some modern Windows systems.
@@ -66,7 +67,7 @@ Feedback, bug reports, testing, and suggestions are always appreciated.
 
 # Español
 
-![Imperivm Launcher - Español](images/ImperivmLauncher_v1.3.0_ES.png)
+![Imperivm Launcher - Español](images/ImperivmLauncher_v3.2.0_ES.png)
 
 ## Acerca del Proyecto
 
@@ -78,7 +79,8 @@ Este proyecto es una herramienta no oficial creada para la comunidad y no reclam
 
 ## Funciones Principales
 
-* **Gestor de Aventuras Personalizadas (v2.0.1+):** Un catálogo integrado en la nube para explorar, descargar, actualizar y gestionar fácilmente campañas y mapas personalizados creados por la comunidad con un solo clic.
+* **Gestor de Aventuras Personalizadas:** Un catálogo integrado en la nube para explorar, descargar, actualizar y gestionar fácilmente campañas y mapas personalizados creados por la comunidad con un solo clic.
+* **Hub Multijugador Automatizado:** Instalación silenciosa de Radmin VPN con un clic, optimización dinámica de la prioridad de red para evitar el lag, y desbloqueo inteligente del Firewall de Windows para encontrar y unirse fácilmente a las partidas de tus amigos.
 * Optimización del juego con un solo clic que aplica automáticamente:
   * El parche **4GB Large Address Aware (LAA)** cuando es necesario.
   * Los archivos del **Audio Fix / DirectMusic** requeridos por algunos sistemas modernos.
@@ -112,7 +114,7 @@ Las sugerencias, pruebas e informes de errores son siempre bienvenidos.
 
 # Italiano
 
-![Imperivm Launcher - Italiano](images/ImperivmLauncher_v1.3.0_IT.png)
+![Imperivm Launcher - Italiano](images/ImperivmLauncher_v3.2.0_IT.png)
 
 ## Informazioni sul Progetto
 
@@ -124,7 +126,8 @@ Questo progetto è uno strumento non ufficiale realizzato per la community e non
 
 ## Funzionalità Principali
 
-* **Gestore Avventure Personalizzate (v2.0.1+):** Un catalogo cloud integrato per esplorare, scaricare, aggiornare e gestire facilmente con un solo clic le campagne e le mappe personalizzate create dalla community.
+* **Gestore Avventure Personalizzate:** Un catalogo cloud integrato per esplorare, scaricare, aggiornare e gestire facilmente con un solo clic le campagne e le mappe personalizzate create dalla community.
+* **Hub Multiplayer Automatizzato:** Installazione silenziosa di Radmin VPN in un clic, ottimizzazione dinamica della priorità di rete per azzerare il lag e sblocco intelligente del Firewall di Windows per trovare e unirsi facilmente alle partite degli amici.
 * Ottimizzazione del gioco con un solo clic che applica automaticamente:
   * La **Patch 4GB Large Address Aware (LAA)** quando necessaria.
   * Il **Fix Audio / DirectMusic** richiesto da alcuni sistemi Windows moderni.
@@ -147,7 +150,6 @@ Questo progetto è uno strumento non ufficiale realizzato per la community e non
   * Inglese
   * Spagnolo
   * Ceco
-
 ## Obiettivo
 
 L'obiettivo di Imperivm Launcher è fornire uno strumento semplice e affidabile che aiuti i giocatori a installare, configurare, diagnosticare e utilizzare il gioco nel modo più semplice possibile.
