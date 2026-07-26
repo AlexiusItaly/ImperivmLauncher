@@ -41,7 +41,7 @@ This project is an unofficial community tool and does not claim ownership of Imp
 
 **2. Cloud Adventures Manager**
 * **Built-in Cloud Catalog:** Browse, download, and update custom community single-player campaigns.
-* **Smart Synchronization:** Automatically detects installed maps and notifies you when map-makers release new updates via GitHub.
+* **Smart Synchronization:** Automatically detects installed maps and notifies you when map-makers release new updates.
 * **Zero-Touch Installation:** Download multiple language-filtered maps at once; the launcher automatically extracts and places audio, text, and scenario files in their correct native folders.
 
 **3. Integrated Mod Manager**
@@ -88,7 +88,7 @@ Este proyecto es una herramienta no oficial creada para la comunidad y no reclam
 
 **2. Gestor de Aventuras en la Nube**
 * **Catálogo Integrado:** Explora, descarga y actualiza campañas personalizadas de la comunidad.
-* **Sincronización Inteligente:** Detecta automáticamente los mapas instalados y te avisa cuando los creadores lanzan actualizaciones en GitHub.
+* **Sincronización Inteligente:** Detecta automáticamente los mapas instalados y te avisa cuando los creadores lanzan actualizaciones.
 * **Instalación Automatizada:** Descarga varios mapas filtrados por idioma a la vez; el lanzador extrae y coloca automáticamente los archivos de audio, texto y escenario en sus carpetas correctas.
 
 **3. Gestor de Mods Integrado**
@@ -135,7 +135,7 @@ Questo progetto è uno strumento non ufficiale realizzato per la community e non
 
 **2. Gestore Avventure Cloud**
 * **Catalogo Integrato:** Esplora, scarica e aggiorna campagne e mappe personalizzate dalla community.
-* **Sincronizzazione Smart:** Rileva automaticamente le mappe installate e avvisa non appena un autore pubblica un aggiornamento su GitHub.
+* **Sincronizzazione Smart:** Rileva automaticamente le mappe installate e avvisa non appena un autore pubblica un aggiornamento.
 * **Installazione Trasparente:** Scarica più mappe contemporaneamente; il launcher si occupa da solo di estrarre e posizionare audio, testi e file di scenario nelle corrette cartelle native.
 
 **3. Gestore Mod Integrato**
