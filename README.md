@@ -33,6 +33,7 @@ This project is an unofficial community tool and does not claim ownership of Imp
 **1. Launch, Patching & Customization**
 * **Native DPI Management:** Automatically disables Windows display scaling to prevent blurry UI elements on modern high-resolution displays.
 * **1-Click Game Optimization:** Permanently applies the **4GB RAM Patch** (preventing out-of-memory crashes) and injects legacy **Audio/DirectMusic Fixes** (preventing instant crashes on Windows 10/11).
+* **Full-HD (1080p) Support:** Automatically extracts and applies the Full-HD pack to run the vanilla base game perfectly in 1080p resolution.
 * **Performance & Graphics:** Optional toggles for **CPU Optimization** (reduces stuttering) and **HD Graphics** (dynamic contrast filters to reduce pixelation).
 * **RAM Watchdog:** Real-time memory monitoring with an in-game overlay and automatic warnings when approaching the engine's limits.
 * **Factory Reset:** A dedicated tool (🧹) to instantly wipe all active settings, mods, and network rules, restoring the game to its pristine original state.
@@ -44,17 +45,22 @@ This project is an unofficial community tool and does not claim ownership of Imp
 * **Smart Synchronization:** Automatically detects installed maps and notifies you when map-makers release new updates.
 * **Zero-Touch Installation:** Download multiple language-filtered maps at once; the launcher automatically extracts and places audio, text, and scenario files in their correct native folders.
 
-**3. Integrated Mod Manager**
+**3. Epic Conquests Manager**
+* **Large-Scale Campaigns:** Browse and download massive, community-created Conquests directly from the launcher.
+* **Simplified Setup:** The system automatically handles complex file placements and integrates the campaigns seamlessly into your game without requiring manual file manipulation.
+
+**4. Integrated Mod Manager**
 * **Safe Installation:** Create a secure, AES-encrypted "Vanilla Backup" of your pristine game files before modding.
 * **Runtime Injection:** Mods are safely loaded into memory while playing. The launcher handles all folder cleaning and backup restorations automatically, keeping your base game 100% safe.
 * **Instant Toggle:** Switch between massive graphical overhauls, balance mods, or the vanilla base game with a single click, without manually moving any files.
 
-**4. Automated Multiplayer Hub**
+**5. Automated Multiplayer Hub**
 * **Invisible Installation:** Automatically downloads and installs Radmin VPN silently in the background if missing.
 * **Smart Network Routing:** Solves the infamous "invisible lobbies" issue. With one click, the launcher configures the Windows Firewall and forces the VPN interface to Maximum Priority (Metric 1), ensuring direct routing and zero lag.
+* **Real-Time Ping Monitor:** A built-in visual indicator displays your Radmin VPN ping directly in the launcher, helping you verify connection stability before starting a match.
 * **Auto-Cleanup:** Safely restores default Windows network priorities and terminates the VPN process the moment you close the launcher.
 
-**5. General Quality of Life**
+**6. General Quality of Life**
 * Automatic launcher update checking.
 * Automatic synchronization between launcher language and game language.
 * Multilingual interface: English, Spanish, Italian, Czech.
@@ -80,6 +86,7 @@ Este proyecto es una herramienta no oficial creada para la comunidad y no reclam
 **1. Inicio, Parche y Personalización**
 * **Gestión Nativa DPI:** Desactiva automáticamente el escalado de Windows para evitar interfaces y textos borrosos en monitores de alta resolución.
 * **Optimización en 1 Clic:** Aplica el parche de **4GB de RAM** (evitando cuelgues por falta de memoria) y las librerías clásicas de **Audio/DirectMusic** (evitando cierres al iniciar en Windows 10/11).
+* **Soporte 1080p Nativo:** Extrae y aplica automáticamente el paquete Full-HD para ejecutar el juego base vanilla en resolución 1080p.
 * **Rendimiento y Gráficos:** Ajustes opcionales para **Optimización de CPU** (reduce tirones) y **Gráficos HD** (filtros dinámicos para reducir la pixelación).
 * **Monitor RAM (Watchdog):** Monitorización en tiempo real con un panel durante la partida y avisos automáticos al acercarse a los límites del motor.
 * **Restauración de Fábrica:** Herramienta dedicada (🧹) para eliminar al instante mods, ajustes y reglas de red, restaurando el juego a su estado original.
@@ -91,17 +98,22 @@ Este proyecto es una herramienta no oficial creada para la comunidad y no reclam
 * **Sincronización Inteligente:** Detecta automáticamente los mapas instalados y te avisa cuando los creadores lanzan actualizaciones.
 * **Instalación Automatizada:** Descarga varios mapas filtrados por idioma a la vez; el lanzador extrae y coloca automáticamente los archivos de audio, texto y escenario en sus carpetas correctas.
 
-**3. Gestor de Mods Integrado**
+**3. Gestor de Conquistas Épicas**
+* **Campañas a Gran Escala:** Explora y descarga enormes Conquistas creadas por la comunidad directamente desde el lanzador.
+* **Configuración Simplificada:** El sistema maneja automáticamente la ubicación de archivos complejos y los integra de forma fluida en tu juego sin necesidad de manipular archivos manualmente.
+
+**4. Gestor de Mods Integrado**
 * **Instalación Segura:** Crea una "Copia Vanilla" segura y encriptada de tus archivos originales antes de aplicar cualquier mod.
 * **Inyección en Ejecución:** Los mods se cargan de forma segura mientras juegas. El lanzador limpia las carpetas y restaura las copias automáticamente, manteniendo el juego base 100% a salvo.
 * **Activación Rápida:** Alterna entre grandes mejoras gráficas, mods de balance o el juego original con un solo clic, sin mover archivos manualmente.
 
-**4. Hub Multijugador Automatizado**
+**5. Hub Multijugador Automatizado**
 * **Instalación Invisible:** Descarga e instala Radmin VPN silenciosamente en segundo plano si no lo tienes.
 * **Enrutamiento de Red Inteligente:** Soluciona el problema de las "salas invisibles". Con un clic, el lanzador configura el Firewall y fuerza la interfaz VPN a Prioridad Máxima (Métrica 1), garantizando visibilidad y cero lag.
+* **Monitor de Ping en Tiempo Real:** Un indicador visual integrado muestra tu ping de Radmin VPN directamente en el lanzador, ayudándote a verificar la estabilidad de la conexión antes de empezar una partida.
 * **Limpieza Automática:** Restaura las prioridades de red de Windows y cierra el proceso VPN de forma segura al cerrar el lanzador.
 
-**5. Calidad de Vida (General)**
+**6. Calidad de Vida (General)**
 * Comprobación automática de actualizaciones del lanzador.
 * Sincronización automática entre el idioma del launcher y el idioma del juego.
 * Interfaz multilingüe: Español, Inglés, Italiano, Checo.
@@ -127,6 +139,7 @@ Questo progetto è uno strumento non ufficiale realizzato per la community e non
 **1. Avvio, Patch e Personalizzazione**
 * **Gestione DPI Nativa:** Disattiva automaticamente il ridimensionamento di Windows per evitare interfacce sfocate sui moderni monitor ad alta risoluzione.
 * **Ottimizzazione in 1 Clic:** Applica la **Patch 4GB RAM** (prevenendo i crash per memoria esaurita) e i vecchi file **Audio/DirectMusic** (risolvendo le chiusure istantanee all'avvio su Win 10/11).
+* **Supporto Nativo 1080p:** Estrae e applica in automatico il pacchetto Full-HD per giocare alla versione base vanilla in risoluzione 1080p.
 * **Prestazioni e Grafica:** Impostazioni opzionali per la **Stabilità CPU** (riduce i microscatti) e **Grafica HD** (filtri di contrasto dinamico per ridurre l'effetto pixel).
 * **Monitoraggio RAM (Watchdog):** Controllo in tempo reale dell'uso della memoria con indicatore a schermo e avvisi automatici vicino al limite del motore.
 * **Ripristino di Fabbrica:** Strumento dedicato (🧹) per spazzare via istantaneamente impostazioni, mod e regole di rete, riportando il gioco al suo stato originale e pulito.
@@ -138,17 +151,22 @@ Questo progetto è uno strumento non ufficiale realizzato per la community e non
 * **Sincronizzazione Smart:** Rileva automaticamente le mappe installate e avvisa non appena un autore pubblica un aggiornamento.
 * **Installazione Trasparente:** Scarica più mappe contemporaneamente; il launcher si occupa da solo di estrarre e posizionare audio, testi e file di scenario nelle corrette cartelle native.
 
-**3. Gestore Mod Integrato**
+**3. Gestore Conquiste Epiche**
+* **Campagne su Larga Scala:** Esplora e scarica enormi Conquiste create dalla community direttamente dal launcher.
+* **Setup Semplificato:** Il sistema gestisce in automatico il posizionamento dei file complessi, integrandoli perfettamente nel gioco senza richiedere alcuna manipolazione manuale.
+
+**4. Gestore Mod Integrato**
 * **Installazione Sicura:** Crea un "Backup Vanilla" crittografato e sicuro dei file originali del gioco prima di applicare qualsiasi modifica.
 * **Iniezione a Runtime:** Le mod vengono caricate in modo sicuro. Il launcher gestisce in automatico la pulizia delle cartelle e i ripristini, mantenendo il gioco base sempre intatto al 100%.
 * **Attivazione Rapida:** Passa da enormi mod grafiche al gioco base originale con un solo clic, senza mai spostare file manualmente.
 
-**4. Hub Multiplayer Automatizzato**
+**5. Hub Multiplayer Automatizzato**
 * **Installazione Invisibile:** Scarica e installa Radmin VPN in modo silenzioso in background se non è presente sul PC.
 * **Routing di Rete Intelligente:** Risolve il problema delle "lobby invisibili". Con un clic, il launcher configura il Firewall e forza la rete VPN a Priorità Massima (Metrica 1), garantendo connessione diretta e zero lag.
+* **Monitoraggio Ping in Tempo Reale:** Un indicatore visivo integrato mostra il tuo ping su Radmin VPN direttamente nel launcher, aiutandoti a verificare la stabilità della connessione prima di iniziare a giocare.
 * **Pulizia Automatica:** Ripristina le normali priorità di rete di Windows e chiude in totale sicurezza il programma VPN non appena chiudi il launcher.
 
-**5. Funzionalità Generali**
+**6. Funzionalità Generali**
 * Controllo automatico degli aggiornamenti del launcher.
 * Sincronizzazione automatica tra lingua del launcher e lingua del gioco.
 * Interfaccia multilingua: Italiano, Inglese, Spagnolo, Ceco.
