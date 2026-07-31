@@ -1,0 +1,5 @@
+Cesare in Gallia|1.1|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Conquiste1.0/Cesare.in.Gallia.zip
+Conquista africana|1.1|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Conquiste1.0/Conquista.africana.zip
+Forgia il tuo impero 2.0|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Conquiste1.0/Forgia.il.tuo.impero.2.0.zip
+Le Guerre Puniche|1.7.5|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Conquiste1.0/Le.Guerre.Puniche.zip
+L'unificazione italica|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Conquiste1.0/L.unificazione.italica.zip
