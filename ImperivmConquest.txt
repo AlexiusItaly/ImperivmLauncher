@@ -4,3 +4,6 @@ L'unificazione italica|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/r
 Le Guerre Puniche|1.7.5|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Conquiste1.0/Le.Guerre.Puniche.zip
 Mare Nostrum|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Conquiste1.0/Mare.Nostrum.zip
 Nuovo forgia il tuo impero|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Conquiste1.0/Nuovo.forgia.il.tuo.impero.zip
+Forgia il tuo impero - Grecia|1.0|EU|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Conquiste1.0/Forgia.il.tuo.impero.Grecia.zip
+Mediterranean (hard version)|30|EU|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Conquiste1.0/Mediterranean.hard.zip
+Mediterranean (impe version)|8|EU|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Conquiste1.0/Mediterranean.impe.zip
