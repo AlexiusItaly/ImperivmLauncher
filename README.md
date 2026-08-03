@@ -1,10 +1,10 @@
 # <img src="images/Icon.png" width="64"> Imperivm Launcher
 
-  **EN:** A free utility developed by **AlexiusItaly** to improve compatibility, stability, and usability of **Imperivm: Great Battles of Rome** on modern Windows systems.<br>
+ <img src="https://flagcdn.com/24x18/gb.png" width="18"> **EN:** A free utility developed by **AlexiusItaly** to improve compatibility, stability, and usability of **Imperivm: Great Battles of Rome** on modern Windows systems.<br>
   
-  **ES:** Una utilidad gratuita desarrollada por **AlexiusItaly** para mejorar la compatibilidad, estabilidad y facilidad de uso de **Imperivm: Great Battles of Rome** en sistemas Windows modernos.<br>
+  <img src="https://flagcdn.com/24x18/es.png" width="18"> **ES:** Una utilidad gratuita desarrollada por **AlexiusItaly** para mejorar la compatibilidad, estabilidad y facilidad de uso de **Imperivm: Great Battles of Rome** en sistemas Windows modernos.<br>
   
-  **IT:** Un'utilità gratuita sviluppata da **AlexiusItaly** per migliorare la compatibilità, la stabilità e la fruibilità di **Imperivm: Le Grandi Battaglie di Roma** sui sistemi Windows moderni.
+  <img src="https://flagcdn.com/24x18/it.png" width="18"> **IT:** Un'utilità gratuita sviluppata da **AlexiusItaly** per migliorare la compatibilità, la stabilità e la fruibilità di **Imperivm: Le Grandi Battaglie di Roma** sui sistemi Windows moderni.
 
 <a href="https://github.com/AlexiusItaly/ImperivmLauncher/releases/latest">
   <img src="https://img.shields.io/github/v/release/AlexiusItaly/ImperivmLauncher?label=Download&style=for-the-badge&logo=github&color=blue">
@@ -12,7 +12,7 @@
 
 ## 🌍 Languages & Navigation
 
-| 🇬🇧 [English](#english) | 🇪🇸 [Español](#español) | 🇮🇹 [Italiano](#italiano) |
+| <img src="https://flagcdn.com/24x18/gb.png" width="18"> [English](#english) | <img src="https://flagcdn.com/24x18/es.png" width="18"> [Español](#español) | <img src="https://flagcdn.com/24x18/it.png" width="18"> [Italiano](#italiano) |
 | :--- | :--- | :--- |
 | 📖 [About](#about)<br>⚙️ [System Requirements](#system-requirements)<br>🚀 [Instructions](#instructions)<br>✨ [Main Features](#main-features)<br>💬 [Support & Feedback](#support-bugs--feedback) | 📖 [Acerca del Proyecto](#acerca-del-proyecto)<br>⚙️ [Requisitos del Sistema](#requisitos-del-sistema)<br>🚀 [Instrucciones](#instrucciones)<br>✨ [Funciones Principales](#funciones-principales)<br>💬 [Soporte y Comentarios](#soporte-errores-y-comentarios) | 📖 [Informazioni](#informazioni-sul-progetto)<br>⚙️ [Requisiti di Sistema](#requisiti-di-sistema)<br>🚀 [Istruzioni](#istruzioni)<br>✨ [Funzionalità](#funzionalità-principali)<br>💬 [Supporto e Feedback](#supporto-bug-e-feedback) |
 
