@@ -10,11 +10,11 @@
   <img src="https://img.shields.io/github/v/release/AlexiusItaly/ImperivmLauncher?label=Download&style=for-the-badge&logo=github&color=blue">
 </a>
 
-## Languages
+## 🌍 Languages & Navigation
 
-* [English](#english)
-* [Español](#español)
-* [Italiano](#italiano)
+| 🇬🇧 [English](#english) | 🇪🇸 [Español](#español) | 🇮🇹 [Italiano](#italiano) |
+| :--- | :--- | :--- |
+| 📖 [About](#about)<br>⚙️ [System Requirements](#system-requirements)<br>🚀 [Instructions](#instructions)<br>✨ [Main Features](#main-features)<br>💬 [Support & Feedback](#support-bugs--feedback) | 📖 [Acerca del Proyecto](#acerca-del-proyecto)<br>⚙️ [Requisitos del Sistema](#requisitos-del-sistema)<br>🚀 [Instrucciones](#instrucciones)<br>✨ [Funciones Principales](#funciones-principales)<br>💬 [Soporte y Comentarios](#soporte-errores-y-comentarios) | 📖 [Informazioni](#informazioni-sul-progetto)<br>⚙️ [Requisiti di Sistema](#requisiti-di-sistema)<br>🚀 [Istruzioni](#istruzioni)<br>✨ [Funzionalità](#funzionalità-principali)<br>💬 [Supporto e Feedback](#supporto-bug-e-feedback) |
 
 ---
 
@@ -27,6 +27,15 @@
 Imperivm Launcher is a free utility developed by **AlexiusItaly** to ensure the game is stable and fully compatible with modern operating systems. This tool acts as a unified hub: it automatically fixes common crashes, ensures the game displays correctly on high-resolution monitors, and provides a safe way to play community content. 
 
 This project is an unofficial community tool and does not claim ownership of Imperivm or any related intellectual property.
+
+## System Requirements
+* **OS:** Windows 7 (32-bit) or higher.
+* **Game:** A valid installation of *Imperivm: Great Battles of Rome*.
+
+## Instructions
+1. Download the latest release from the button at the top of this page.
+2. Place the launcher executable in your Imperivm directory (where the `gbr.exe` file is located).
+3. Run the launcher and use the intuitive interface to optimize, mod, and play the game!
 
 ## Main Features
 
@@ -65,9 +74,10 @@ This project is an unofficial community tool and does not claim ownership of Imp
 * Automatic synchronization between launcher language and game language.
 * Multilingual interface: English, Spanish, Italian, Czech.
 
-## Project Goal
+## Support, Bugs & Feedback
+The goal of Imperivm Launcher is to provide a simple and reliable all-in-one utility that helps players install, configure, troubleshoot, and enjoy the game with minimal effort. 
 
-The goal of Imperivm Launcher is to provide a simple and reliable all-in-one utility that helps players install, configure, troubleshoot, and enjoy the game with minimal effort. Feedback, bug reports, and suggestions are always appreciated.
+For any questions, feature requests, or bug reports, please open an issue in the **[GitHub Issues](https://github.com/AlexiusItaly/ImperivmLauncher/issues)** section of this repository. Detail your suggestion, bug, or idea, and I will reply as soon as possible!
 
 ---
 
@@ -80,6 +90,15 @@ The goal of Imperivm Launcher is to provide a simple and reliable all-in-one uti
 Imperivm Launcher es una utilidad gratuita desarrollada por **AlexiusItaly** para garantizar que el juego sea estable y totalmente compatible con los sistemas operativos modernos. Esta herramienta actúa como un centro unificado: soluciona automáticamente los bloqueos comunes, asegura que el juego se vea correctamente en monitores de alta resolución y ofrece una forma segura de jugar al contenido de la comunidad.
 
 Este proyecto es una herramienta no oficial creada para la comunidad y no reclama ningún derecho sobre Imperivm ni sobre sus contenidos.
+
+## Requisitos del Sistema
+* **SO:** Windows 7 (32-bit) o superior.
+* **Juego:** Una instalación válida de *Imperivm: Great Battles of Rome*.
+
+## Instrucciones
+1. Descarga la última versión desde el botón de arriba de esta página.
+2. Coloca el ejecutable del launcher en la carpeta de Imperivm (donde se encuentra el archivo `gbr.exe`).
+3. ¡Inicia el launcher y usa la interfaz para optimizar, instalar mods y jugar!
 
 ## Funciones Principales
 
@@ -118,9 +137,10 @@ Este proyecto es una herramienta no oficial creada para la comunidad y no reclam
 * Sincronización automática entre el idioma del launcher y el idioma del juego.
 * Interfaz multilingüe: Español, Inglés, Italiano, Checo.
 
-## Objetivo
+## Soporte, Errores y Comentarios
+El objetivo de Imperivm Launcher es ofrecer una solución sencilla y fiable que ayude a los jugadores a instalar, configurar, diagnosticar y disfrutar del juego de la forma más cómoda posible.
 
-El objetivo de Imperivm Launcher es ofrecer una solución sencilla y fiable que ayude a los jugadores a instalar, configurar, diagnosticar y disfrutar del juego de la forma más cómoda posible. Las sugerencias y reportes de errores son siempre bienvenidos.
+Para preguntas, solicitudes de nuevas funciones o reportes de errores, por favor abre un *Issue* en la sección de **[GitHub Issues](https://github.com/AlexiusItaly/ImperivmLauncher/issues)** de este repositorio. ¡Cuéntame tu sugerencia, bug o idea y te responderé lo antes posible!
 
 ---
 
@@ -133,6 +153,15 @@ El objetivo de Imperivm Launcher es ofrecer una solución sencilla y fiable que 
 Imperivm Launcher è un'utilità gratuita sviluppata da **AlexiusItaly** per garantire che il gioco sia stabile e perfettamente compatibile con i moderni sistemi operativi. Questo strumento funziona come un hub unificato: corregge in automatico i crash più comuni, garantisce che il gioco si veda correttamente sui monitor ad alta risoluzione e offre un modo sicuro per utilizzare i contenuti creati dalla community.
 
 Questo progetto è uno strumento non ufficiale realizzato per la community e non rivendica alcun diritto su Imperivm o sui relativi contenuti.
+
+## Requisiti di Sistema
+* **OS:** Windows 7 (32-bit) o versioni successive.
+* **Gioco:** Un'installazione valida di *Imperivm: Le Grandi Battaglie di Roma*.
+
+## Istruzioni
+1. Scarica l'ultima release dal pulsante in alto in questa pagina.
+2. Posiziona l'eseguibile del launcher nella cartella di Imperivm (dove si trova il file `gbr.exe`).
+3. Avvia il launcher e usa l'interfaccia per ottimizzare, applicare mod e giocare!
 
 ## Funzionalità Principali
 
@@ -171,6 +200,7 @@ Questo progetto è uno strumento non ufficiale realizzato per la community e non
 * Sincronizzazione automatica tra lingua del launcher e lingua del gioco.
 * Interfaccia multilingua: Italiano, Inglese, Spagnolo, Ceco.
 
-## Obiettivo
+## Supporto, Bug e Feedback
+L'obiettivo di Imperivm Launcher è fornire uno strumento semplice e affidabile che aiuti i giocatori a installare, configurare, diagnosticare e utilizzare il gioco nel modo più semplice possibile.
 
-L'obiettivo di Imperivm Launcher è fornire uno strumento semplice e affidabile che aiuti i giocatori a installare, configurare, diagnosticare e utilizzare il gioco nel modo più semplice possibile. Feedback, segnalazioni di bug e suggerimenti sono sempre benvenuti.
+Per domande, richieste di nuove funzionalità o segnalazioni di bug, scrivi una issue nella sezione **[GitHub Issues](https://github.com/AlexiusItaly/ImperivmLauncher/issues)** di questa pagina. Dimmi qual è il tuo suggerimento, il bug che hai trovato o la tua idea e ti risponderò il prima possibile!
