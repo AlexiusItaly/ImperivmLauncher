@@ -1,4 +1,4 @@
-EN|NEWS: DRAFT LEGACY MOD Tournament coming soon. Join the Discord server for more information: https://discord.gg/stuK6cTK8
-ES|¡NOTICIA: ¡Próximamente el torneo DRAFT LEGACY MOD! Únete al servidor de Discord para obtener más información: https://discord.gg/stuK6cTK8
-IT|NEWS: Torneo DRAFT LEGACY MOD in arrivo. Entra nel server Discord per maggiori informazioni: https://discord.gg/stuK6cTK8
-CZ|NOVINKA: Turnaj DRAFT LEGACY MOD již brzy. Připojte se na Discord server pro více informací: https://discord.gg/stuK6cTK8
+EN|NEWS: DRAFT LEGACY MOD Tournament coming soon. Join the Discord server for more information: <LINK url="https://discord.gg/stuK6cTK8">CLICK HERE</LINK>
+ES|¡NOTICIA: ¡Próximamente el torneo DRAFT LEGACY MOD! Únete al servidor de Discord para obtener más información: <LINK url="https://discord.gg/stuK6cTK8">CLIC AQUÍ</LINK>
+IT|NEWS: Torneo DRAFT LEGACY MOD in arrivo. Entra nel server Discord per maggiori informazioni: <LINK url="https://discord.gg/stuK6cTK8">CLICCA QUI</LINK>
+CZ|NOVINKA: Turnaj DRAFT LEGACY MOD již brzy. Připojte se na Discord server pro více informací: <LINK url="https://discord.gg/stuK6cTK8">KLIKNI SEM</LINK>
