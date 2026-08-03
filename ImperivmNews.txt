@@ -2,3 +2,10 @@ EN|NEWS: DRAFT LEGACY MOD Tournament coming soon. Join the Discord server for mo
 ES|¡NOTICIA: ¡Próximamente el torneo DRAFT LEGACY MOD! Únete al servidor de Discord para obtener más información: <LINK url="https://discord.gg/stuK6cTK8">CLIC AQUÍ</LINK>
 IT|NEWS: Torneo DRAFT LEGACY MOD in arrivo. Entra nel server Discord per maggiori informazioni: <LINK url="https://discord.gg/stuK6cTK8">CLICCA QUI</LINK>
 CZ|NOVINKA: Turnaj DRAFT LEGACY MOD již brzy. Připojte se na Discord server pro více informací: <LINK url="https://discord.gg/stuK6cTK8">KLIKNI SEM</LINK>
+
+// Esempi di formattazione per le News:
+// Per un link con testo personalizzato:
+// <LINK url="INDIRIZZO_WEB">TESTO_DA_MOSTRARE</LINK>
+//
+// Per mostrare l'indirizzo completo e renderlo cliccabile:
+// <LINK>INDIRIZZO_WEB</LINK>
