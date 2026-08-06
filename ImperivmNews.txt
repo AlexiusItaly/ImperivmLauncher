@@ -1,7 +1,7 @@
-EN|NEWS: Greek Mod 2.5.8 released! Join Discord to participate in the Draft Legacy Mod tournament: <LINK url="https://discord.gg/stuK6cTK8">CLICK HERE</LINK>
-ES|NOTICIA: ¡Greek Mod 2.5.8 disponible! Únete a Discord para participar en el torneo Draft Legacy Mod: <LINK url="https://discord.gg/stuK6cTK8">CLIC AQUÍ</LINK>
-IT|NEWS: Greek Mod 2.5.8 disponibile! Entra su Discord per partecipare al torneo Draft Legacy Mod: <LINK url="https://discord.gg/stuK6cTK8">CLICCA QUI</LINK>
-CZ|NOVINKA: Vydán Greek Mod 2.5.8! Připojte se na Discord a zúčastněte se turnaje Draft Legacy Mod: <LINK url="https://discord.gg/stuK6cTK8">KLIKNI SEM</LINK>
+EN|NEWS: Join Discord for the Draft Legacy Mod tournament: <LINK url="https://discord.gg/stuK6cTK8">CLICK HERE</LINK>. Bugs from v5.2.0-5.2.4? Update to v5.2.5, do a Vanilla Reset, and reinstall your mods!
+ES|NOTICIA: Únete a Discord para el torneo Draft Legacy Mod: <LINK url="https://discord.gg/stuK6cTK8">CLIC AQUÍ</LINK>. ¿Bugs de v5.2.0-5.2.4? ¡Actualiza a v5.2.5, haz un Reset Vanilla y reinstala tus mods!
+IT|NEWS: Entra su Discord per il torneo Draft Legacy Mod: <LINK url="https://discord.gg/stuK6cTK8">CLICCA QUI</LINK>. Bug dalle v5.2.0-5.2.4? Aggiorna alla v5.2.5, fai un Ripristino Vanilla e reinstalla le mod!
+CZ|NOVINKA: Připojte se na Discord a turnaj Draft Legacy Mod: <LINK url="https://discord.gg/stuK6cTK8">KLIKNI SEM</LINK>. Máte chyby z v5.2.0-5.2.4? Aktualizujte na v5.2.5, proveďte Vanilla Reset a přeinstalujte mody!
 
 // Esempi di formattazione per le News:
 // Per un link con testo personalizzato:
