@@ -8,8 +8,10 @@ Hannibal's Campaigns|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/rel
 Il figlio di Ankou|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Il.figlio.di.Ankou.BFHP
 Il popolo di Asclepio|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Il.popolo.di.Asclepio.BFHP
 Invaders|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Invaders.bfhp
+Imperivm I - La Guerra Gallica|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Imperivm.I.-.La.Guerra.Gallica.bfhp
 Keltill's Adventure|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Keltill.s.Adventure.BFHP
 L'Egitto maledetto|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/L.Egitto.maledetto.BFHP
+L'eroe d'Egitto parte 1|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/L_eroe.d_Egitto.parte.1.BFHP
 L'unificazione dell'Egitto|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/L.unificazione.dell.Egitto.BFHP
 L'unificazione dell'Italia|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/L.unificazione.dell.Italia.BFHP
 L'Unificazione della Britannia|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/L.Unificazione.della.Britannia.GREEK.BFHP
@@ -20,7 +22,7 @@ La Rivolta dei Messeni (464 a.C.)|1.0|IT|https://github.com/AlexiusItaly/Imperiv
 La battaglia di Avarico|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/La_battaglia_di_Avarico.BFHP
 La Primera Guerra Punica|1.0|ES|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/La_Primera_Guerra_Punica.bfhp
 La Ultima Carga Teutonica HD|1.0|ES|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/La_Ultima_Carga_Teutonica_HD.BFHP
-L'eroe d'Egitto parte 1|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/L_eroe.d_Egitto.parte.1.BFHP
+Le Guerre Puniche|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Le.Guerre.Puniche.bfhp
 Numantia|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Numantia.bfhp
 Osca|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Osca.BFHP
 Return to the Throne|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Return.to.the.Throne.bfhp
