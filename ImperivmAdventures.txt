@@ -25,6 +25,7 @@ La Ultima Carga Teutonica HD|1.0|ES|https://github.com/AlexiusItaly/ImperivmLaun
 Le Guerre Puniche|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Le.Guerre.Puniche.bfhp
 Numantia|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Numantia.bfhp
 Osca|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Osca.BFHP
+Penisola Nordica|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Penisola.Nordica.BFHP
 Return to the Throne|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Return.to.the.Throne.bfhp
 Ribellione di Spartaco (73 a.C.)|1.0|IT|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Ribellione.di.Spartaco.73.a.C.BFHP
 Siege of Saguntum|1.0|EN|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Avventure1.0/Siege.of.Saguntum.bfhp
