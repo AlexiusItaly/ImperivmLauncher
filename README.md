@@ -41,7 +41,7 @@ This project is an unofficial community tool and does not claim ownership of Imp
 
 **1. Launch, Patching & Customization**
 * **Native DPI Management:** Automatically disables Windows display scaling to prevent blurry UI elements on modern high-resolution displays.
-* **1-Click Game Optimization:** Permanently applies the **4GB RAM Patch** (preventing out-of-memory crashes) and injects legacy **Audio/DirectMusic Fixes** (preventing instant crashes on Windows 10/11).
+* **1-Click Game Optimization:** Permanently applies the **4GB RAM Patch** (preventing out-of-memory crashes), injects legacy **Audio/DirectMusic Fixes** (preventing instant crashes on Win 10/11), and permanently fixes the infamous 2005 random crash 'Couldn't find or parse map file' by patching the 'ghost tree' null pointer directly in the game's assembly code.
 * **Full-HD (1080p) Support:** Automatically extracts and applies the Full-HD pack to run the vanilla base game perfectly in 1080p resolution.
 * **Performance & Graphics:** Optional toggles for **CPU Optimization** (reduces stuttering) and **HD Graphics** (dynamic contrast filters to reduce pixelation).
 * **RAM Watchdog:** Real-time memory monitoring with an in-game overlay and automatic warnings when approaching the engine's limits.
@@ -104,8 +104,8 @@ Este proyecto es una herramienta no oficial creada para la comunidad y no reclam
 
 **1. Inicio, Parche y Personalización**
 * **Gestión Nativa DPI:** Desactiva automáticamente el escalado de Windows para evitar interfaces y textos borrosos en monitores de alta resolución.
-* **Optimización en 1 Clic:** Aplica el parche de **4GB de RAM** (evitando cuelgues por falta de memoria) y las librerías clásicas de **Audio/DirectMusic** (evitando cierres al iniciar en Windows 10/11).
-* **Soporte 1080p Nativo:** Extrae y aplica automáticamente el paquete Full-HD para ejecutar el juego base vanilla en resolución 1080p.
+* **Optimización en 1 Clic:** Aplica el parche de **4GB de RAM** (evitando cuelgues por falta de memoria), las librerías clásicas de **Audio/DirectMusic** (evitando cierres al iniciar en Win 10/11), y soluciona definitivamente el famoso cuelgue aleatorio de 2005 'Couldn't find or parse map file', parcheando el problema del 'árbol fantasma' directamente en el código assembly del juego.
+* * **Soporte 1080p Nativo:** Extrae y aplica automáticamente el paquete Full-HD para ejecutar el juego base vanilla en resolución 1080p.
 * **Rendimiento y Gráficos:** Ajustes opcionales para **Optimización de CPU** (reduce tirones) y **Gráficos HD** (filtros dinámicos para reducir la pixelación).
 * **Monitor RAM (Watchdog):** Monitorización en tiempo real con un panel durante la partida y avisos automáticos al acercarse a los límites del motor.
 * **Restauración de Fábrica:** Herramienta dedicada (🧹) para eliminar al instante mods, ajustes y reglas de red, restaurando el juego a su estado original.
@@ -167,8 +167,8 @@ Questo progetto è uno strumento non ufficiale realizzato per la community e non
 
 **1. Avvio, Patch e Personalizzazione**
 * **Gestione DPI Nativa:** Disattiva automaticamente il ridimensionamento di Windows per evitare interfacce sfocate sui moderni monitor ad alta risoluzione.
-* **Ottimizzazione in 1 Clic:** Applica la **Patch 4GB RAM** (prevenendo i crash per memoria esaurita) e i vecchi file **Audio/DirectMusic** (risolvendo le chiusure istantanee all'avvio su Win 10/11).
-* **Supporto Nativo 1080p:** Estrae e applica in automatico il pacchetto Full-HD per giocare alla versione base vanilla in risoluzione 1080p.
+* **Ottimizzazione in 1 Clic:** Applica la **Patch 4GB RAM** (prevenendo i crash per memoria esaurita), i vecchi file **Audio/DirectMusic** (risolvendo le chiusure istantanee all'avvio su Win 10/11) e risolve definitivamente il famigerato crash casuale del 2005 'Couldn't find or parse map file', correggendo il problema del puntatore nullo ('albero fantasma') direttamente nel codice assembly del gioco.
+* * **Supporto Nativo 1080p:** Estrae e applica in automatico il pacchetto Full-HD per giocare alla versione base vanilla in risoluzione 1080p.
 * **Prestazioni e Grafica:** Impostazioni opzionali per la **Stabilità CPU** (riduce i microscatti) e **Grafica HD** (filtri di contrasto dinamico per ridurre l'effetto pixel).
 * **Monitoraggio RAM (Watchdog):** Controllo in tempo reale dell'uso della memoria con indicatore a schermo e avvisi automatici vicino al limite del motore.
 * **Ripristino di Fabbrica:** Strumento dedicato (🧹) per spazzare via istantaneamente impostazioni, mod e regole di rete, riportando il gioco al suo stato originale e pulito.
