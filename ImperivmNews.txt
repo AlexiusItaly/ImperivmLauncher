@@ -1,7 +1,7 @@
-EN|NEWS: Version 5.5.0 is now available, featuring critical engine optimizations, memory leak fixes, and significantly improved overall game stability.
-ES|NOTICIA: La versión 5.5.0 ya está disponible, incluyendo optimizaciones críticas del motor, corrección de fugas de memoria y una estabilidad general significativamente mejorada.
-IT|NEWS: La versione 5.5.0 è ora disponibile: introduce ottimizzazioni critiche al motore, risolve definitivamente i memory leak e migliora nettamente la stabilità generale del gioco.
-CZ|NOVINKA: Verze 5.5.0 je nyní k dispozici a přináší kritické optimalizace enginu, opravy úniků paměti a výrazně lepší celkovou stabilitu hry.
+EN|NEWS: Version 5.7.0 is now available, featuring new engine crash fixes, improved diagnostics, and full compatibility with the newly released Greek Mod 2.6.0!
+ES|NOTICIA: La versión 5.7.0 ya está disponible, con nuevos fixes de crasheos del motor, mejores diagnósticos y compatibilidad total con el recién lanzado Mod Griego 2.6.0.
+IT|NEWS: La versione 5.7.0 è ora disponibile: introduce nuovi fix per i crash del motore, diagnostica migliorata e piena compatibilità con la nuova Mod Greca 2.6.0!
+CZ|NOVINKA: Verze 5.7.0 je nyní k dispozici, přináší nové opravy pádů enginu, lepší diagnostiku a plnou kompatibilitu s nově vydaným Greek Mod 2.6.0!
 
 // Esempi di formattazione per le News:
 // Per un link con testo personalizzato:
