@@ -1,7 +1,7 @@
-EN|NEWS: Version 5.7.0 is now available, featuring new engine crash fixes, improved diagnostics, and full compatibility with the newly released Greek Mod 2.6.0!
-ES|NOTICIA: La versión 5.7.0 ya está disponible, con nuevos fixes de crasheos del motor, mejores diagnósticos y compatibilidad total con el recién lanzado Mod Griego 2.6.0.
-IT|NEWS: La versione 5.7.0 è ora disponibile: introduce nuovi fix per i crash del motore, diagnostica migliorata e piena compatibilità con la nuova Mod Greca 2.6.0!
-CZ|NOVINKA: Verze 5.7.0 je nyní k dispozici, přináší nové opravy pádů enginu, lepší diagnostiku a plnou kompatibilitu s nově vydaným Greek Mod 2.6.0!
+EN|NEWS: v5.8.0 is out! All major GBR bugs are finally fixed for hours of non-stop gameplay. A huge thank you to everyone for your ideas, testing, and feedback. Next goal: reviving multiplayer via openspy.net (just waiting on the server owners' reply!).
+ES|NOTICIA: ¡La v5.8.0 ya está aquí! Los mayores bugs de GBR han sido corregidos para jugar horas sin parar. Gracias de corazón a todos por sus ideas, testeos y feedback. Próximo objetivo: revivir el multijugador vía openspy.net (¡esperando respuesta de los dueños del servidor!).
+IT|NEWS: La v5.8.0 è disponibile! Tutti i bug principali di GBR sono finalmente risolti, ora potrete giocare ore no-stop. Grazie di cuore a tutti per le idee, i test e i feedback. Prossimo step: fixare il multiplayer tramite openspy.net (sperando che i proprietari dei server rispondano presto!).
+CZ|NOVINKA: Verze 5.8.0 je venku! Všechny hlavní chyby GBR jsou konečně opraveny, takže můžete hrát hodiny bez přestání. Obrovské díky všem za nápady, testování a zpětnou vazbu. Další cíl: oživení multiplayeru přes openspy.net (čekáme na odpověď majitelů serverů!).
 
 // Esempi di formattazione per le News:
 // Per un link con testo personalizzato:
