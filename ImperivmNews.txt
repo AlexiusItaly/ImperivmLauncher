@@ -1,7 +1,7 @@
-EN|NEWS: v6.1.0 is out! All major GBR bugs are finally fixed for hours of non-stop gameplay. A huge thank you to everyone for your ideas, testing, and feedback. Next goal: reviving multiplayer via openspy.net (just waiting on the server owners' reply!).
-ES|NOTICIA: ¡La v6.1.0 ya está aquí! Los mayores bugs de GBR han sido corregidos para jugar horas sin parar. Gracias de corazón a todos por sus ideas, testeos y feedback. Próximo objetivo: revivir el multijugador vía openspy.net (¡esperando respuesta de los dueños del servidor!).
-IT|NEWS: La v6.1.0 è disponibile! Tutti i bug principali di GBR sono finalmente risolti, ora potrete giocare ore no-stop. Grazie di cuore a tutti per le idee, i test e i feedback. Prossimo step: fixare il multiplayer tramite openspy.net (sperando che i proprietari dei server rispondano presto!).
-CZ|NOVINKA: Verze 6.1.0 je venku! Všechny hlavní chyby GBR jsou konečně opraveny, takže můžete hrát hodiny bez přestání. Obrovské díky všem za nápady, testování a zpětnou vazbu. Další cíl: oživení multiplayeru přes openspy.net (čekáme na odpověď majitelů serverů!).
+EN|NEWS: Recent updates have stabilized single-player and successfully integrated the 9 hero slots patch. My next goals are restoring native multiplayer via OpenSpy and integrating new civilizations without replacing the canonical base ones.
+ES|NOTICIA: Las últimas actualizaciones han estabilizado el modo un jugador e integrado con éxito el parche de 9 héroes. Mis próximos objetivos son restaurar el multijugador nativo vía OpenSpy e integrar nuevas civilizaciones sin reemplazar las base originales.
+IT|NEWS: Gli ultimi aggiornamenti hanno stabilizzato il single-player e integrato con successo la patch dei 9 eroi. I miei prossimi obiettivi sono ripristinare il multiplayer nativo tramite OpenSpy e integrare nuove civiltà senza dover rinunciare a quelle canoniche di base.
+CZ|NOVINKA: Nedávné aktualizace stabilizovaly singleplayer a úspěšně integrovaly patch pro 9 hrdinů. Mými dalšími cíli jsou obnova nativního multiplayeru přes OpenSpy a integrace nových civilizací bez nutnosti nahradit ty původní.
 
 // Esempi di formattazione per le News:
 // Per un link con testo personalizzato:
