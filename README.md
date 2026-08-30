@@ -2,9 +2,9 @@
 
  <img src="https://flagcdn.com/24x18/gb.png" width="18"> **EN:** A free utility developed by **AlexiusItaly** to improve compatibility, stability, and usability of **Imperivm: Great Battles of Rome** on modern Windows systems.<br>
   
-  <img src="https://flagcdn.com/24x18/es.png" width="18"> **ES:** Una utilidad gratuita desarrollada por **AlexiusItaly** para mejorar la compatibilidad, estabilidad y facilidad de uso de **Imperivm: Great Battles of Rome** en sistemas Windows modernos.<br>
+ <img src="https://flagcdn.com/24x18/es.png" width="18"> **ES:** Una utilidad gratuita desarrollada por **AlexiusItaly** para mejorar la compatibilidad, estabilidad y facilidad de uso de **Imperivm: Great Battles of Rome** en sistemas Windows modernos.<br>
   
-  <img src="https://flagcdn.com/24x18/it.png" width="18"> **IT:** Un'utilità gratuita sviluppata da **AlexiusItaly** per migliorare la compatibilità, la stabilità e la fruibilità di **Imperivm: Le Grandi Battaglie di Roma** sui sistemi Windows moderni.
+ <img src="https://flagcdn.com/24x18/it.png" width="18"> **IT:** Un'utilità gratuita sviluppata da **AlexiusItaly** per migliorare la compatibilità, la stabilità e la fruibilità di **Imperivm: Le Grandi Battaglie di Roma** sui sistemi Windows moderni.
 
 <a href="https://github.com/AlexiusItaly/ImperivmLauncher/releases/latest">
   <img src="https://img.shields.io/github/v/release/AlexiusItaly/ImperivmLauncher?label=Download&style=for-the-badge&logo=github&color=blue">
@@ -42,6 +42,7 @@ This project is an unofficial community tool and does not claim ownership of Imp
 **1. Launch, Patching & Customization**
 * **Native DPI Management:** Automatically disables Windows display scaling to prevent blurry UI elements on modern high-resolution displays.
 * **1-Click Game Optimization:** Permanently applies the **4GB RAM Patch** (preventing crashes during massive battles), injects legacy **Audio & DirectMusic Fixes** (preventing startup crashes and handling missing sound files safely), and resolves the infamous 2005 random map crash ("Couldn't find or parse map file"). Additionally, it corrects critical engine logic defects, stops RAM memory leaks, and patches leftover developer checks that generated false background errors, resulting in a cleaner and more stable game engine.
+* **9 Hero Slots:** Expands the control interface from 5 to 9 hero slots, enabling keys 1-9 (patch by Upercat).
 * **Full-HD (1080p) Support:** Automatically extracts and applies the Full-HD pack to run the vanilla base game perfectly in 1080p resolution.
 * **Performance & Graphics:** Optional toggles for **CPU Optimization** (reduces stuttering) and **HD Graphics** (dynamic contrast filters to reduce pixelation).
 * **RAM Watchdog:** Real-time memory monitoring with an in-game overlay and automatic warnings when approaching the engine's limits.
@@ -70,6 +71,7 @@ This project is an unofficial community tool and does not claim ownership of Imp
 * **Auto-Cleanup:** Safely restores default Windows network priorities and terminates the VPN process the moment you close the launcher.
 
 **6. General Quality of Life**
+* Built-in Official User Manual, accessible directly from the launcher.
 * Automatic launcher update checking.
 * Automatic synchronization between launcher language and game language.
 * Multilingual interface: English, Spanish, Italian, Czech.
@@ -105,6 +107,7 @@ Este proyecto es una herramienta no oficial creada para la comunidad y no reclam
 **1. Inicio, Parche y Personalización**
 * **Gestión Nativa DPI:** Desactiva automáticamente el escalado de Windows para evitar interfaces y textos borrosos en monitores de alta resolución.
 * **Optimización en 1 Clic:** Aplica el parche de **4GB de RAM** (evitando cuelgues en batallas masivas), inyecta los **Fix de Audio y DirectMusic** (evitando cierres al iniciar y gestionando archivos de sonido faltantes de forma segura), y soluciona el famoso cuelgue de mapas aleatorios de 2005 ("Couldn't find or parse map file"). Además, corrige defectos críticos en la lógica del motor, detiene las fugas de memoria RAM y repara comprobaciones de desarrollo obsoletas que generaban falsos errores en segundo plano, logrando un motor de juego más limpio y estable.
+* **9 Ranuras para Héroes:** Expande la interfaz de control de 5 a 9 ranuras para héroes (teclas 1-9), un parche creado por Upercat.
 * **Soporte 1080p Nativo:** Extrae y aplica automáticamente el paquete Full-HD para ejecutar el juego base vanilla en resolución 1080p.
 * **Rendimiento y Gráficos:** Ajustes opcionales para **Optimización de CPU** (reduce tirones) y **Gráficos HD** (filtros dinámicos para reducir la pixelación).
 * **Monitor RAM (Watchdog):** Monitorización en tiempo real con un panel durante la partida y avisos automáticos al acercarse a los límites del motor.
@@ -133,6 +136,7 @@ Este proyecto es una herramienta no oficial creada para la comunidad y no reclam
 * **Limpieza Automática:** Restaura las prioridades de red de Windows y cierra el proceso VPN de forma segura al cerrar el lanzador.
 
 **6. Calidad de Vida (General)**
+* Manual de usuario oficial integrado, accesible directamente desde el lanzador.
 * Comprobación automática de actualizaciones del lanzador.
 * Sincronización automática entre el idioma del launcher y el idioma del juego.
 * Interfaz multilingüe: Español, Inglés, Italiano, Checo.
@@ -168,6 +172,7 @@ Questo progetto è uno strumento non ufficiale realizzato per la community e non
 **1. Avvio, Patch e Personalizzazione**
 * **Gestione DPI Nativa:** Disattiva automaticamente il ridimensionamento di Windows per evitare interfacce sfocate sui moderni monitor ad alta risoluzione.
 * **Ottimizzazione in 1 Clic:** Applica la **Patch 4GB RAM** (prevenendo crash nelle grandi battaglie), inietta i **Fix Audio e DirectMusic** (risolvendo le chiusure all'avvio e gestendo in sicurezza i file sonori mancanti) e risolve il famigerato crash delle mappe casuali del 2005 ("Couldn't find or parse map file"). Inoltre, corregge difetti critici nella logica del motore, arresta le perdite di memoria RAM e ripara vecchi controlli di sviluppo che generavano falsi errori in background, garantendo un motore di gioco molto più pulito e stabile.
+* **9 Slot Eroi:** Espande l'interfaccia di controllo da 5 a 9 slot per gli eroi abilitando i tasti 1-9 (patch creata da Upercat).
 * **Supporto Nativo 1080p:** Estrae e applica in automatico il pacchetto Full-HD per giocare alla versione base vanilla in risoluzione 1080p.
 * **Prestazioni e Grafica:** Impostazioni opzionali per la **Stabilità CPU** (riduce i microscatti) e **Grafica HD** (filtri di contrasto dinamico per ridurre l'effetto pixel).
 * **Monitoraggio RAM (Watchdog):** Controllo in tempo reale dell'uso della memoria con indicatore a schermo e avvisi automatici vicino al limite del motore.
@@ -196,6 +201,7 @@ Questo progetto è uno strumento non ufficiale realizzato per la community e non
 * **Pulizia Automatica:** Ripristina le normali priorità di rete di Windows e chiude in totale sicurezza il programma VPN non appena chiudi il launcher.
 
 **6. Funzionalità Generali**
+* Manuale utente ufficiale integrato, accessibile direttamente dal launcher.
 * Controllo automatico degli aggiornamenti del launcher.
 * Sincronizzazione automatica tra lingua del launcher e lingua del gioco.
 * Interfaccia multilingua: Italiano, Inglese, Spagnolo, Ceco.
