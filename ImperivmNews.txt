@@ -1,7 +1,7 @@
-EN|NEWS: Recent updates have stabilized single-player and successfully integrated the 9 hero slots patch. My next goals are restoring native multiplayer via OpenSpy and integrating new civilizations without replacing the canonical base ones.
-ES|NOTICIA: Las últimas actualizaciones han estabilizado el modo un jugador e integrado con éxito el parche de 9 héroes. Mis próximos objetivos son restaurar el multijugador nativo vía OpenSpy e integrar nuevas civilizaciones sin reemplazar las base originales.
-IT|NEWS: Gli ultimi aggiornamenti hanno stabilizzato il single-player e integrato con successo la patch dei 9 eroi. I miei prossimi obiettivi sono ripristinare il multiplayer nativo tramite OpenSpy e integrare nuove civiltà senza dover rinunciare a quelle canoniche di base.
-CZ|NOVINKA: Nedávné aktualizace stabilizovaly singleplayer a úspěšně integrovaly patch pro 9 hrdinů. Mými dalšími cíli jsou obnova nativního multiplayeru přes OpenSpy a integrace nových civilizací bez nutnosti nahradit ty původní.
+EN|All changelogs can be found <LINK url="https://github.com/AlexiusItaly/ImperivmLauncher/releases">HERE</LINK>.
+ES|Todos los changelogs se pueden encontrar <LINK url="https://github.com/AlexiusItaly/ImperivmLauncher/releases">AQUÍ</LINK>.
+IT|Tutti i changelog possono essere trovati <LINK url="https://github.com/AlexiusItaly/ImperivmLauncher/releases">QUI</LINK>.
+CZ|Všechny changelogy najdete <LINK url="https://github.com/AlexiusItaly/ImperivmLauncher/releases">ZDE</LINK>.
 
 // Esempi di formattazione per le News:
 // Per un link con testo personalizzato:
