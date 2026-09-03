@@ -1,7 +1,7 @@
-EN|All changelogs can be found <LINK url="https://github.com/AlexiusItaly/ImperivmLauncher/releases">HERE</LINK>.
-ES|Todos los changelogs se pueden encontrar <LINK url="https://github.com/AlexiusItaly/ImperivmLauncher/releases">AQUÍ</LINK>.
-IT|Tutti i changelog possono essere trovati <LINK url="https://github.com/AlexiusItaly/ImperivmLauncher/releases">QUI</LINK>.
-CZ|Všechny changelogy najdete <LINK url="https://github.com/AlexiusItaly/ImperivmLauncher/releases">ZDE</LINK>.
+EN|Current focus: adding features and bugfixes. A full UI revamp will come later! All changelogs are <LINK url="https://github.com/AlexiusItaly/ImperivmLauncher/releases">HERE</LINK>.
+ES|Enfoque actual: añadir funciones y correcciones. ¡La interfaz gráfica se renovará más adelante! Todos los changelogs están <LINK url="https://github.com/AlexiusItaly/ImperivmLauncher/releases">AQUÍ</LINK>.
+IT|Focus attuale: aggiungere funzionalità e bugfix. Il restyling dell'interfaccia grafica arriverà in futuro! Tutti i changelog sono <LINK url="https://github.com/AlexiusItaly/ImperivmLauncher/releases">QUI</LINK>.
+CZ|Aktuální cíl: přidávání funkcí a opravy chyb. Úprava grafického rozhraní přijde později! Všechny changelogy najdete <LINK url="https://github.com/AlexiusItaly/ImperivmLauncher/releases">ZDE</LINK>.
 
 // Esempi di formattazione per le News:
 // Per un link con testo personalizzato:
