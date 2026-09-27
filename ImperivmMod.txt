@@ -1,4 +1,4 @@
-Greek Mod|2.6.0|EU|24/08/2026|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Mod1.0/Greek_Mod_2.6.0.zip
+Greek Mod|2.6.1|EU|25/09/2026|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Mod1.0/Greek_Mod_2.6.0.zip
 Caesar Mod|1.1.0|EU|02/06/2026|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Mod1.0/Caesar_Mod_1.1.0.zip
 Legacy Mod|2.4.1|EU|06/09/2026|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Mod1.1/Legacy_Mod_2.4.1.zip
 Community Mod|11.3|EU|13/06/2026|https://github.com/AlexiusItaly/ImperivmLauncher/releases/download/Mod1.0/Community_Mod_11.3.zip
